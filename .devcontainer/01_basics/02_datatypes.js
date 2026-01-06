@@ -5,7 +5,7 @@
 console.log(3+3) 
 console.log("Kusal")
 
-let name="Kusal"
+let name="Kusal Rimal"
 let age=18
 let isLogginin=false
 
