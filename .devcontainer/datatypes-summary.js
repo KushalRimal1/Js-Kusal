@@ -37,5 +37,6 @@ const myFunction= function(){
 }
 
 console.log(typeof myFunction )
+///
 
 
