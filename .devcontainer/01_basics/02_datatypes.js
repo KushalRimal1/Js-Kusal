@@ -14,7 +14,7 @@ let isLogginin=false
 //string => ""
 //boolean=> true/false
 //null=> standalone value 
-//undefined => value aile ko lagi assign xaina
+//undefined => value ahiley ko lagi assign xaina
 //symbol=>  unique (mainly used in react)
 
 //object
