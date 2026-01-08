@@ -37,6 +37,31 @@ const myFunction= function(){
 }
 
 console.log(typeof myFunction )
-///
+
+
+
+// ***************Memory****************//
+
+
+// Types of memory: Stack(Primitive), Heap(Non-primitivw)
+
+let myClassName = "Bit 5th";
+
+let anotherClassName = myClassName;
+anotherClassName = "Bca 5th";
+
+console.log(myClassName);
+console.log(anotherClassName);
+
+let student = {
+    name: "kusal", 
+    Faculty: "BIT"
+}
+
+let teacher= student
+teacher.email="Kusal@gmail.com"
+console.log(student.email)
+console.log(teacher.email)
+
 
 
